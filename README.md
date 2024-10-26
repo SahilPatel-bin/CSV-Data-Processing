@@ -1,5 +1,4 @@
 <h1>Flask-Based Backend for CSV Data Processing with JWT Authentication</h1>
-<br>
 <h2>Project Overview</h2>
 This project is a backend application built using Flask that processes purchase data from CSV files and stores the information in a PostgreSQL database. 
 It implements user authentication with JWT tokens, allowing secure access to various CRUD operations on the data. The main functionalities include uploading 
